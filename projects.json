@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Club Hub (CSE170)",
+    "description": "I used AI to develop the backend for this site.",
+    "link": "https://jacob-buxton13.github.io/ClubHub/",
+    "tags": ["Web", "HTML", "CSS", "JavaScript"],
+    "highlight": true
+  },
+  {
+    "title": "Pokémon Battle Simulator (CSE210 Final)",
+    "description": "A C# console application simulating Pokémon battles with custom moves, types, and trainers.",
+    "link": "#",
+    "tags": ["C#", "OOP", "Game"],
+    "highlight": true
+  },
+  {
+    "title": "Power Analyzer (Algorithm Design)",
+    "description": "Python program to find the highest average in subarrays from JSON input, with test coverage.",
+    "link": "#",
+    "tags": ["Python", "Algorithm", "JSON"],
+    "highlight": true
+  },
+  {
+    "title": "WDD131 Portfolio",
+    "description": "A showcase of web assignments and projects for WDD131, including a recipe book, blog, and more.",
+    "link": "https://tristanzat.github.io/wdd131",
+    "tags": ["Web", "HTML", "CSS"],
+    "highlight": true
+  },
+  {
+    "title": "Other Projects",
+    "description": "See my GitHub and coursework folders for more Python, C#, and web projects.",
+    "link": "https://github.com/tristanzat",
+    "tags": ["Python", "C#", "Web"],
+    "highlight": false
+  }
+]
