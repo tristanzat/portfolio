@@ -1,5 +1,5 @@
 async function loadProjects() {
-  const res = await fetch('../projects.json');
+  const res = await fetch('projects.json');
   const projects = await res.json();
   const highlighted = projects.filter(p => p.highlight);
   const others = projects.filter(p => !p.highlight);
