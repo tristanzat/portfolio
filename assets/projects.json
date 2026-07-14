@@ -7,17 +7,17 @@
     "highlight": true
   },
   {
-    "title": "Pokémon Battle Simulator (CSE210 Final)",
-    "description": "A C# console application simulating Pokémon battles with custom moves, types, and trainers.",
-    "link": "#",
-    "tags": ["C#", "OOP", "Game"],
+    "title": "XOR Machine Learning Model (C++ Final)",
+    "description": "A machine learning model written entirely in C++ that predicts an XOR output.",
+    "link": "https://github.com/tristanzat/C_plus_plus",
+    "tags": ["C++", "Maching Learning", "OOP"],
     "highlight": true
   },
   {
-    "title": "Power Analyzer (Algorithm Design)",
-    "description": "Python program to find the highest average in subarrays from JSON input, with test coverage.",
-    "link": "#",
-    "tags": ["Python", "Algorithm", "JSON"],
+    "title": "DS250 Portfolio",
+    "description": "A showcase of data modification, cleaning, and analysis for DS250.",
+    "link": "https://tristanzat.github.io/ds250",
+    "tags": ["Polars", "Data Science", "Python"],
     "highlight": true
   },
   {
